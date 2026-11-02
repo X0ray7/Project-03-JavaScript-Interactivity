@@ -1,0 +1,9 @@
+.box {
+    padding: 20px;
+    background-color: lightgray;
+    margin-top: 10px;
+}
+.active {
+    background-color: lightgreen;
+    border: 2px solid green;
+}
